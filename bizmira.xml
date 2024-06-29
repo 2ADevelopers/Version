@@ -3,10 +3,10 @@
     <channel>
         <title>BizMira</title>
         <item>
-            <title>Version 1.0.44</title>
+            <title>Version 1.0.48</title>
             <description>Minor updates and improvements.</description>
             <pubDate>Sun, 30 Dec 2018 12:00:00 +0000</pubDate>
-            <enclosure url="https://play.google.com/store/apps/details?id=com.moonwink.treasury" sparkle:version="1.0.44" sparkle:os="macos" />
+            <enclosure url="https://www.microsoft.com/store/apps/9NMK32SMRX39" sparkle:version="1.0.48" sparkle:os="windows" />
         </item>
     </channel>
 </rss>
