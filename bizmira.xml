@@ -4,7 +4,12 @@
         <title>BizMira</title>
         <item>
             <title>Version 1.0.48</title>
-            <description>Minor updates and improvements.</description>
+            <description>Now you can Add the following data to a Sales Entry ;
+* Customer Name
+* Amount Paid
+* Balance
+* Payment Method
+* Tax (Percentage)</description>
             <pubDate>Sun, 30 Dec 2018 12:00:00 +0000</pubDate>
             <enclosure url="https://www.microsoft.com/store/apps/9NMK32SMRX39" sparkle:version="1.0.48" sparkle:os="windows" />
         </item>
