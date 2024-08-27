@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle">
+    <channel>
+        <title>BizMira</title>
+        <item>
+            <title>Version 1.0.8</title>
+            <description>Fixed Lag when updating data</description>
+            <pubDate>Sun, 30 Dec 2018 12:00:00 +0000</pubDate>
+            <enclosure url="https://www.microsoft.com/store/apps/9MSQSXFBXKPP" sparkle:version="1.0.8" sparkle:os="windows" />
+        </item>
+    </channel>
+</rss>
