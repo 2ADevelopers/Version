@@ -3,14 +3,14 @@
     <channel>
         <title>Rental</title>
         <item>
-            <title>Version 1.0.11</title>
+            <title>Version 1.0.25</title>
             <description>
                 * Added Support more Date Formats
                 * UI Optimisations
                 * Perfomance Improvements
 </description>
             <pubDate>Sun, 30 Dec 2018 12:00:00 +0000</pubDate>
-            <enclosure url="https://www.microsoft.com/store/apps/9MSQSXFBXKPP" sparkle:version="1.0.11" sparkle:os="windows" />
+            <enclosure url="https://www.microsoft.com/store/apps/9MSQSXFBXKPP" sparkle:version="1.0.25" sparkle:os="windows" />
         </item>
     </channel>
 </rss>
