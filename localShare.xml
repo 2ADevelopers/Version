@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle">
+    <channel>
+        <title>Local Share</title>
+        <item>
+            <title>Version 1.0.4</title>
+            <description>
+            * Perfomance Improvements
+</description>
+            <pubDate>Sun, 30 Dec 2018 12:00:00 +0000</pubDate>
+            <enclosure url="https://apps.microsoft.com/store/detail/9PDQBV4XR3R5?cid=DevShareMCLPCS" sparkle:version="1.0.4" sparkle:os="windows" />
+        </item>
+    </channel>
+</rss>
