@@ -3,14 +3,12 @@
     <channel>
         <title>Rental</title>
         <item>
-            <title>Version 1.0.25</title>
+            <title>Version 1.0.26</title>
             <description>
-            * Added Other Details Field to Tenants Data
-            * Fixed a bug causing Data Duplication when Rent Details are Edited
-            * Perfomance Improvements
+            * Fix a bug causing data loss during synchronisation 
 </description>
             <pubDate>Sun, 30 Dec 2018 12:00:00 +0000</pubDate>
-            <enclosure url="https://www.microsoft.com/store/apps/9MSQSXFBXKPP" sparkle:version="1.0.25" sparkle:os="windows" />
+            <enclosure url="https://www.microsoft.com/store/apps/9MSQSXFBXKPP" sparkle:version="1.0.26" sparkle:os="windows" />
         </item>
     </channel>
 </rss>
