@@ -3,12 +3,12 @@
     <channel>
         <title>Rental</title>
         <item>
-            <title>Version 1.0.26</title>
+            <title>Version 1.0.28</title>
             <description>
-            * Fix a bug causing data loss during synchronisation 
+            * Bug Fixes
 </description>
             <pubDate>Sun, 30 Dec 2018 12:00:00 +0000</pubDate>
-            <enclosure url="https://www.microsoft.com/store/apps/9MSQSXFBXKPP" sparkle:version="1.0.26" sparkle:os="windows" />
+            <enclosure url="https://www.microsoft.com/store/apps/9MSQSXFBXKPP" sparkle:version="1.0.28" sparkle:os="windows" />
         </item>
     </channel>
 </rss>
