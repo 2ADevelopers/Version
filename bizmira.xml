@@ -3,10 +3,13 @@
     <channel>
         <title>Small Business</title>
         <item>
-            <title>Version 1.0.59</title>
-            <description>In this release, we have fixed a bug causing data loss when updating records</description>
+            <title>Version 1.0.61</title>
+            <description>
+                * Major Bug Fixes
+                * Perfomance Improvements
+            </description>
             <pubDate>Sun, 30 Dec 2018 12:00:00 +0000</pubDate>
-            <enclosure url="https://www.microsoft.com/store/apps/9NMK32SMRX39" sparkle:version="1.0.59" sparkle:os="windows" />
+            <enclosure url="https://www.microsoft.com/store/apps/9NMK32SMRX39" sparkle:version="1.0.61" sparkle:os="windows" />
         </item>
     </channel>
 </rss>
