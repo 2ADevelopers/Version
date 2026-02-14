@@ -4,10 +4,15 @@
     <channel>
         <title>CashMonitor</title>
         <item>
-            <title>Version 1.0.24</title>
-            <description>Bug Fixes </description>
+            <title>Version 1.0.27</title>
+            <description>* Updated the App Icon
+            * Updated the Home Sreen layout
+            * Added new Date Formats
+            * Enhanced number formats with global styles and live table reformatting
+            * Fixed number format switching to preserve existing values across the database
+            * Number format changes now refresh all tables immediately without restarting</description>
             <pubDate>Sun, 30 Dec 2018 12:00:00 +0000</pubDate>
-            <enclosure url="https://www.microsoft.com/store/apps/9P05WPW0F2B6" sparkle:version="1.0.24" sparkle:os="windows" />
+            <enclosure url="https://www.microsoft.com/store/apps/9P05WPW0F2B6" sparkle:version="1.0.27" sparkle:os="windows" />
         </item>
     </channel>
 </rss>
