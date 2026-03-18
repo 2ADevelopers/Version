@@ -3,15 +3,13 @@
     <channel>
         <title>Local Share</title>
         <item>
-            <title>Version 1.0.20</title>
+            <title>Version 1.0.22</title>
             <description>
-            * Added Auto Device Discovery
-            * Now you can Share Folders
-            * Now you can share Photos/Videos from Photos/Gallery App
-            * Photos/Videos now can save to Gallery/Photos App
+            * Added Support for Ethernet Connection
+            * Bug Fixes
             </description>
             <pubDate>Sun, 30 Dec 2018 12:00:00 +0000</pubDate>
-            <enclosure url="https://apps.microsoft.com/store/detail/9PDQBV4XR3R5?cid=DevShareMCLPCS" sparkle:version="1.0.20" sparkle:os="windows" />
+            <enclosure url="https://apps.microsoft.com/store/detail/9PDQBV4XR3R5?cid=DevShareMCLPCS" sparkle:version="1.0.22" sparkle:os="windows" />
         </item>
     </channel>
 </rss>
