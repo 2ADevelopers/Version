@@ -3,12 +3,14 @@
     <channel>
         <title>AnyLLM</title>
         <item>
-            <title>Version 1.0.4</title>
+            <title>Version 1.0.6</title>
             <description>
-            * Performance Improvements	
+            * Added Support for Running Local Models (GGUFs) with in the App
+            * Added a new voice engine (Supertonic TTS).
+            * Fixed Background Text to Speech Play breaking 
             </description>
             <pubDate>Sun, 30 Dec 2018 12:00:00 +0000</pubDate>
-            <enclosure url="https://apps.microsoft.com/store/detail/9NS6BX73PW1C?cid=DevShareMCLPCS" sparkle:version="1.0.4" sparkle:os="windows" />
+            <enclosure url="https://apps.microsoft.com/store/detail/9NS6BX73PW1C?cid=DevShareMCLPCS" sparkle:version="1.0.6" sparkle:os="windows" />
         </item>
     </channel>
 </rss>
