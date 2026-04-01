@@ -3,15 +3,15 @@
     <channel>
         <title>Rental</title>
         <item>
-            <title>Version 1.0.29</title>
+            <title>Version 1.0.30</title>
             <description>
-                * Fixed a bug causing data duplication when posting rent as cleared (Credit to Said)
-                * Added Auto Backup Options
-                * Added new Number Formating Options
-                * Performance Improvements
-</description>
+            * Now Rent Cost, Rent Cycle, Cycle Length are set per Tenant
+            * Added Option for Advance Rent Deposits (Auto Deduct)
+            * Added Option for Paying Ahead 
+            * Bug Fixes
+            </description>
             <pubDate>Sun, 30 Dec 2018 12:00:00 +0000</pubDate>
-            <enclosure url="https://www.microsoft.com/store/apps/9MSQSXFBXKPP" sparkle:version="1.0.29" sparkle:os="windows" />
+            <enclosure url="https://www.microsoft.com/store/apps/9MSQSXFBXKPP" sparkle:version="1.0.30" sparkle:os="windows" />
         </item>
     </channel>
 </rss>
