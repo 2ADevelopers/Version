@@ -3,9 +3,10 @@
     <channel>
         <title>Small Business</title>
         <item>
-            <title>Version 1.0.67</title>
+            <title>Version 1.0.68</title>
             <description>
-            * Fix Data Sync Issues
+            * Now you can turn off Separate Daily and Records and have all Data on Page, 
+            * Now you can set new data rows to appear at the top of the table, 
             </description>
             <pubDate>Sun, 30 Dec 2018 12:00:00 +0000</pubDate>
             <enclosure url="https://www.microsoft.com/store/apps/9NMK32SMRX39" sparkle:version="1.0.67" sparkle:os="windows" />
